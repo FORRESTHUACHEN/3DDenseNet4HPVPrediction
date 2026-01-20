@@ -16,6 +16,7 @@ Flowchart shows samples exclusion for three datasets are shown as follow:
 ![Flowchart](https://github.com/FORRESTHUACHEN/3DDenseNet4HPVPrediction/blob/main/Figures/Figure2.png)
 
 Please use source codes to prepare training data [Codes4Preprocessing/dataPreparation_v2.py](https://github.com/FORRESTHUACHEN/3DDenseNet4HPVPrediction/blob/main/Codes4Preprocessing/dataPreparation_v2.py)
-Excel file need to download for data preparing.
+
+Excel file -[Codes4Preprocessing/RADCURE-Label_for_HPV_FM.xlsx](https://github.com/FORRESTHUACHEN/3DDenseNet4HPVPrediction/blob/main/Codes4Preprocessing/RADCURE-Label_for_HPV_FM.xlsx)- need to download for data preparing.
 
 Resoures will be arrived in days (19 January 2026).
