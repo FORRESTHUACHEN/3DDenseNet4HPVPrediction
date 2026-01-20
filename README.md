@@ -29,4 +29,5 @@ Example for storing data are shown as follow:
 
 ----label.txt
 
+When data pre-processing finished, you can uploaded codes[ModelsCodes/CT_HPV_3dDensenet_classifier_v3.py](https://github.com/FORRESTHUACHEN/3DDenseNet4HPVPrediction/blob/main/ModelsCodes/CT_HPV_3dDensenet_classifier_v3.py) to test the performnce of built network.
 Resoures will be arrived in days (19 January 2026).
