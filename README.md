@@ -11,4 +11,8 @@ Computed Tomography Images from Large Head and Neck Cohort [RADCURE](https://www
 Head-Neck-PET-CT[H&N PET/CT](https://www.cancerimagingarchive.net/collection/head-neck-pet-ct/)
 
 HEAD-NECK-RADIOMICS-HN1 [HN1](https://www.cancerimagingarchive.net/collection/head-neck-radiomics-hn1/)
+
+Flowchart shows samples exclusion for three datasets are shown as follow:
+![Flowchart](https://github.com/FORRESTHUACHEN/3DDenseNet4HPVPrediction/blob/main/Figures/Figure2.png)
+
 Resoures will be arrived in days (19 January 2026).
