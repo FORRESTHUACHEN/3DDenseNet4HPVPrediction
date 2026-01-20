@@ -19,4 +19,14 @@ Please use source codes to prepare training data [Codes4Preprocessing/dataPrepar
 
 Excel file -[Codes4Preprocessing/RADCURE-Label_for_HPV_FM.xlsx](https://github.com/FORRESTHUACHEN/3DDenseNet4HPVPrediction/blob/main/Codes4Preprocessing/RADCURE-Label_for_HPV_FM.xlsx)- need to download for data preparing.
 
+Example for storing data are shown as follow:
+
+--patient_0005
+
+----image.nii.gz
+
+----mask.nii.gz
+
+----label.txt
+
 Resoures will be arrived in days (19 January 2026).
